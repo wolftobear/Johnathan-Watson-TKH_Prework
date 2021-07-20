@@ -1,10 +1,5 @@
-class construct {
-    constructor() {
-      this.name = 'correct';
-    }
-  }
-  
-  const poly1 = new construct();
-  
-  console.log(poly1.name);
-  //output: correct
+var changable="I can Change"
+const static="and I can not, I remain the same"
+console.log(changeable);
+console.log(static);
+  //output: I can Change,and I can not, I remain the same.
